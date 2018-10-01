@@ -45,7 +45,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Hello, i'm Andrei Cosma and i am a Full Stack Java Developer. \nI like to consider myself an open minded person and I'm easily inspired by positive change. \nI aspire to inspire and I enjoy getting the big picture, coupling business and organisational values together.\nMy life values and core principles are: action, determination and resilience.",
+    "skillmessage":"Hello, i'm Andrei Cosma and i am a Full Stack Java Developer. I like to consider myself an open minded person and I'm easily inspired by positive change. I aspire to inspire and I enjoy getting the big picture, coupling business and organisational values together. My life values and core principles are: action, determination and resilience.",
     "education":[
       {
         "school":"Valahia University, ",
@@ -62,48 +62,69 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-         "description": {
-          "tasks": [
-            "Project planning and estimates with business holders and customers - Agile and Waterfall\nmethodologies and workflow",
-            "Estimating and planning with project manager",
-            "Provisioning of support and solutions to business holders and customers"],
-          "technologies": " HTML5 / CSS3/ LESS/ Turbine CSS, Javascript, JQuery, Browser Compability, Adobe\nPhotoshop, Adobe Illustrator, Cpanel, Page Speed, Asana, PHP 5x, Bootstrap, SEO"
-        }
-      },
-      {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
+        "company":"Société Générale, Bucuresti (Romania)",
+        "title":"Java and Web Developer",
+        "years":"August 2017 - Present",
         "description": {
           "tasks": [
-            "Project planning and estimates with business holders and customers - Agile and Waterfall\nmethodologies and workflow",
-            "Estimating and planning with project manager",
-            "Provisioning of support and solutions to business holders and customers"],
-          "technologies": " HTML5 / CSS3/ LESS/ Turbine CSS, Javascript, JQuery, Browser Compability, Adobe\nPhotoshop, Adobe Illustrator, Cpanel, Page Speed, Asana, PHP 5x, Bootstrap, SEO"
+            "Following full agile scrum methodologies and workflow (via Atlassian tool stack)",
+            "Estimating and planning with project managers with a clear understanding of business goals",
+            "Developing and maintaining custom components in Hippo CMS, for business needs",
+            "Security officer for the web apps",
+            "Implementing custom standardized backend /frontend logic for web applications",
+            "Dev Ops"],
+          "technologies": "Java 1.7/1.8, Spring 4, Maven, Angular 2/4, ES6, React, React-strap, JQuery, PIWIK\ntool, Oracle Database, PostgreSQL, HTML5/CSS3, Bash, Apache Tomcat, JMX terminal, Atlassian\nstack,\nSonarLint plugin, CheckMarx plugin, XL Deploy, Jenkins."
         }
       },
       {
-        "company":"S.C Computer Fun SRL (Expertvision.ro), Targoviste (Romania) ",
+        "company":"Deutsche Bank, Bucuresti (Romania)",
+        "title":"Software engineer developer",
+        "years":"March 2015 - August 2017",
+         "description": {
+          "tasks": [
+            "Following full agile scrum methodologies and workflow (via Atlassian tool stack)",
+            "Estimating and planning with project managers with a clear understanding of business goals",
+            "Implementing custom standardized backend logic for web applications",
+            "Manage user access control for git repositories and do code reviews",
+            "Developing and maintaining backend REST services (written in Java and Spring) in order to be consumed by the frond end components (AngularJS controllers)",
+            "Writing unit, functional, integration testing using Junit, Mockito."
+          ],
+          "technologies": "Writing unit, functional, integration testing using Junit, Mockito. Technologies: Java 1.7/1.8, Spring 4, Maven, Mybatis, Angular 1.3x/1.5x, ES6, Oracle Database, HTML5/CSS3/SASS, Bash, Apache Tomcat, redux, Atlassian stack, Lombok Plugin, SonarLint plugin"
+        }
+      },
+      {
+        "company":"Inside Media Communication, Bucuresti (Romania)",
+        "title":"Front end developer",
+        "years":"September 2014 - March 2015",
+        "description": {
+          "tasks": [
+            "Agile and Waterfall methodologies and workflow (via Google Docs/ sheets)",
+            "Estimating and planning with project managers with a clear understanding of business goals",
+            "ASP.NET CMS development, custom widgets and cross-browsing compability"
+          ],
+          "technologies": " HTML5 / CSS3/ LESS/ Turbine CSS, Javascript, JQuery, Browser Compability, Adobe Photoshop, Adobe Illustrator, Cpanel, Page Speed, Asana, PHP 5x, Bootstrap, SEO"
+        }
+      },
+      {
+        "company":"S.C. Computer Fun SRL (Expertvision.ro), Targoviste (Romania) ",
         "title":"UX / UI Developer ",
         "years":"June 2013 - September 2014",
          "description": {
           "tasks": [
-            "Project planning and estimates with business holders and customers - Agile and Waterfall\nmethodologies and workflow",
+            "Project planning and estimates with business holders and customers - Agile and Waterfallmethodologies and workflow",
             "Estimating and planning with project manager",
             "Provisioning of support and solutions to business holders and customers"],
-          "technologies": " HTML5 / CSS3/ LESS/ Turbine CSS, Javascript, JQuery, Browser Compability, Adobe\nPhotoshop, Adobe Illustrator, Cpanel, Page Speed, Asana, PHP 5x, Bootstrap, SEO"
+          "technologies": " HTML5 / CSS3/ LESS/ Turbine CSS, Javascript, JQuery, Browser Compability, AdobePhotoshop, Adobe Illustrator, Cpanel, Page Speed, Asana, PHP 5x, Bootstrap, SEO"
         }
       },
       {
-        "company":"S.C. Electrica S.A, Targoviste (Romania) ",
+        "company":"S.C. Electrica S.A., Targoviste (Romania) ",
         "title":"Data operator",
         "years":"January 2012 - June 2013",
         "description": {
           "tasks": [
-            "Project planning and estimates with business holders and customers - Agile and Waterfall\nmethodologies and workflow"],
+            "Entry, check and validate data into 3rd Party Software"
+          ],
           "technologies": ""
         }
       }

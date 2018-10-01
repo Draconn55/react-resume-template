@@ -14,7 +14,9 @@ class Resume extends Component {
         return <div key={work.company}><h3>{work.company}</h3>
             <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
             {work.description.tasks ? <strong>Tasks</strong> : ``}
-            {work.description.tasks ? work.description.tasks.map(function(task){ return <p>{task}</p> }) : ``}
+            <ul>
+                {work.description.tasks ? work.description.tasks.map(function(task){ return <li>- {task}</li> }) : ``}
+            </ul>
             {work.description.technologies ? <strong>Technologies</strong> : ``}
             {work.description.technologies ? <p>{work.description.technologies}</p> : `` }
         </div>
