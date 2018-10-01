@@ -1,73 +1,63 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Andrei Cosma",
+    "occupation":"Full Stack Developer",
+    "description":"Less is More",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"",
+    "contactmessage":"Contact me and let's have a talk!",
+    "email": "andrei.cosma55@gmail.com",
+    "phone": "(+40) 769 292 778",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":" ",
+      "city":"Bucharest",
+      "state":"Romania",
+      "zip": " "
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://andreicosma.xyz",
+    "resumedownload":"https://andreicosma.xyz/Resume-Andrei-Cosma.pdf",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://facebook.com/draconn55",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/draconn55",
         "className":"fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/andrei-cosma-22343969/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://instagram.com/draconn55",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/draconn55",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Hello, i'm Andrei Cosma and i am a Full Stack Java Developer. \nI like to consider myself an open minded person and I'm easily inspired by positive change. \nI aspire to inspire and I enjoy getting the big picture, coupling business and organisational values together.\nMy life values and core principles are: action, determination and resilience.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Valahia University, ",
+        "degree":"Bachelor's degree",
+        "graduated":"2014",
+        "description":"By following the automatic and informatic profile, i achieved a basic understading of concepts about programming"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":" Voievodul Mircea College",
+        "degree":"High school diploma",
+        "graduated":"2010",
+        "description":"Guided on how to achieve goals, i learned how to honor a commitement, both professionally and socially"
       }
     ],
     "work":[
@@ -75,26 +65,72 @@
         "company":"Awesome Design Studio",
         "title":"Senior UX God ",
         "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+         "description": {
+          "tasks": [
+            "Project planning and estimates with business holders and customers - Agile and Waterfall\nmethodologies and workflow",
+            "Estimating and planning with project manager",
+            "Provisioning of support and solutions to business holders and customers"],
+          "technologies": " HTML5 / CSS3/ LESS/ Turbine CSS, Javascript, JQuery, Browser Compability, Adobe\nPhotoshop, Adobe Illustrator, Cpanel, Page Speed, Asana, PHP 5x, Bootstrap, SEO"
+        }
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description": {
+          "tasks": [
+            "Project planning and estimates with business holders and customers - Agile and Waterfall\nmethodologies and workflow",
+            "Estimating and planning with project manager",
+            "Provisioning of support and solutions to business holders and customers"],
+          "technologies": " HTML5 / CSS3/ LESS/ Turbine CSS, Javascript, JQuery, Browser Compability, Adobe\nPhotoshop, Adobe Illustrator, Cpanel, Page Speed, Asana, PHP 5x, Bootstrap, SEO"
+        }
+      },
+      {
+        "company":"S.C Computer Fun SRL (Expertvision.ro), Targoviste (Romania) ",
+        "title":"UX / UI Developer ",
+        "years":"June 2013 - September 2014",
+         "description": {
+          "tasks": [
+            "Project planning and estimates with business holders and customers - Agile and Waterfall\nmethodologies and workflow",
+            "Estimating and planning with project manager",
+            "Provisioning of support and solutions to business holders and customers"],
+          "technologies": " HTML5 / CSS3/ LESS/ Turbine CSS, Javascript, JQuery, Browser Compability, Adobe\nPhotoshop, Adobe Illustrator, Cpanel, Page Speed, Asana, PHP 5x, Bootstrap, SEO"
+        }
+      },
+      {
+        "company":"S.C. Electrica S.A, Targoviste (Romania) ",
+        "title":"Data operator",
+        "years":"January 2012 - June 2013",
+        "description": {
+          "tasks": [
+            "Project planning and estimates with business holders and customers - Agile and Waterfall\nmethodologies and workflow"],
+          "technologies": ""
+        }
       }
     ],
     "skills":[
+      {
+        "name":"Java",
+        "level":"72%"
+      },
+      {
+        "name":"Maven",
+        "level":"64%"
+      },
+      {
+        "name":"Spring",
+        "level":"30%"
+      },
       {
         "name":"Git",
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"ReactJs",
+        "level":"60%"
       },
       {
-        "name":"ReactJs",
+        "name":"AngularJs",
         "level":"50%"
       },
       {
@@ -103,15 +139,23 @@
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"90%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Docker",
+        "level":"26%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Jenkins",
+        "level":"68%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"84%"
       }
     ]
   },
@@ -122,42 +166,18 @@
         "category":"My Travel Blog for my post-university travels",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"testimonial text",
+        "user":"user"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"testimonial text",
+        "user":"user"
       }
     ]
   }
